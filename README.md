@@ -29,3 +29,6 @@ $ docker-compose up -d
 #Rails がないよと言われたらこのURLで解決
 https://31navi.com/rails-mysql
 https://qiita.com/fukuda_fu/items/463a39406ce713396403
+
+#Docker Compose run api rails db:migrateでエラー解決
+https://qiita.com/SyoInoue/items/2ed5b3017c517920ec09
