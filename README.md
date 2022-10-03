@@ -24,3 +24,7 @@ $ docker-compose run --rm front yarn install --frozen-lockfile
 
 # コンテナ起動
 $ docker-compose up -d
+
+
+#Rails がないよと言われたらこのURLで解決
+https://31navi.com/rails-mysql
