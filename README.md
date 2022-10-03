@@ -28,3 +28,4 @@ $ docker-compose up -d
 
 #Rails がないよと言われたらこのURLで解決
 https://31navi.com/rails-mysql
+https://qiita.com/fukuda_fu/items/463a39406ce713396403
